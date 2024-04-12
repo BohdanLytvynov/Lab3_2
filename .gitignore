@@ -36,3 +36,8 @@
 
 # Exe_files
 x64/
+
+!lib/ukrString.obj
+!lib/pch/ukrString/pch.obj
+!dlls/ukrString.dll
+!dlls/smart_alloc_dll.dll
