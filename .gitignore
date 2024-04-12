@@ -39,5 +39,5 @@ x64/
 
 !lib/ukrString.obj
 !lib/pch/ukrString/pch.obj
-!x64/Debug/ukrString.dll
-!x64/Debug/smart_alloc_dll.dll
+!dlls/ukrString.dll
+!dlls/smart_alloc_dll.dll
